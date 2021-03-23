@@ -1,3 +1,3 @@
 # test
 
-(space.gif)
+![Animated gif demo](space.gif)
